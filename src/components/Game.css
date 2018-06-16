@@ -1,0 +1,19 @@
+.game-wrapper {
+    height: 100vh;
+    text-align: center;
+    position: relative;
+  }
+
+.game-container {
+    width: 80%;
+    min-width: 300px;
+    max-width: 550px;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+}
+
+.new-game {
+    text-align: right;
+    margin-right: 15px;
+}

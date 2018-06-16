@@ -1,0 +1,13 @@
+button {
+    display: block;
+    margin: 10px auto;
+}
+
+form input[type="number"], form button {
+    min-width: 175px;
+    text-align: center;
+}
+
+.end-game {
+    display: none;
+}
